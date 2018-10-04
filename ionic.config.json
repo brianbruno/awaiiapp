@@ -1,0 +1,7 @@
+{
+  "name": "awaiiApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
